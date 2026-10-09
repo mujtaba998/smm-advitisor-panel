@@ -1,0 +1,6 @@
+{
+  "name": "Custom SMM Panel with AI Recommendation Engine",
+  "description": "Production-ready SMM panel with AI-powered service recommendation advisor, live provider sync, Easypaisa automated deposit tracking, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
